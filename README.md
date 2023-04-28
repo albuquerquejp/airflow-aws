@@ -15,6 +15,4 @@ Para garantir que não haja leitura e/ou processamento de arquivos já processad
 
 Por fim, para visualização dos arquivos recém processados em um novo S3 Bucket será necessário a criação de uma tabela no AWS Athena.
 
-![athena](https://user-images.githubusercontent.com/101363298/233791618-14119e27-5c0e-41c5-bb4f-64db42af54ed.jpg)
-
 Esse projeto tem como objetivo proporcionar uma solução de orquestração de tarefas automatizada, permitindo uma maior visibilidade, garantia e facilidade de integração com o ambiente AWS.
